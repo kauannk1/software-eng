@@ -1,0 +1,40 @@
+*Software* ---> Genérico ou Específico
+    ---> Torna mais eficiente tarefas do dia a dia
+
+** Atributos de um bom Software **
+    ---> Fácil de Utilizar
+    --> Rápido;
+    --> Seguro;
+    --> Funcional;
+    --> Aparência;
+    --> Suporte;
+    --> Padrão de Design;
+    --> Acessibilidade;
+    --> Preço
+
+    ** Manutenibilidade
+        --> Deve ter fácil manutenção
+              --> Logo, deve ser organizado, comentado e documentado
+
+    ** Eficiência
+        --> O software NÃO deve desperdiçar os recursos do sistema (memória e ciclos do processador);
+        --> Portanto, Eficiência inclui capacidade de resposta, tempo de processamento, uso de memória, etc
+
+    ** Aceitabilidade
+        --> O software deve ser aceitável para o tipo de usuário para o qual foi projetado;
+        --> Isso significa que deve ser comrpreensível, usável e compatível com outros sistemas usados por ele
+
+** ATIVIDADES DA ENG. DE SOFTWARE **
+
+
+      ** ESPECIFICAÇÃO **
+        --> Definido pelo Analista de Sistemas;
+        --> Refinir as funcionalidades e restrições
+      
+      ** DESENVOLVIMENTO **
+        --> Definido pelo Desenvolvedor;
+        --> Codificação
+
+      ** VALIDAÇÃO **
+        --> Verificar se o software atende as necessidades do cliente
+        
