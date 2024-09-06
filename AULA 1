@@ -59,4 +59,23 @@
 ** CUSTOS DA ENGENHARIA DE SOFTWARE **
 
     * Técnicas/Métodos da Eng. Software
-        
+
+
+** PROCESSOS DE SOFTWARE
+    --> TRADICIONAIS:
+        --> CASCATA {
+            * Sequencial
+            * Dificuldade de mudanças }
+
+        --> EVOLUTIVO {
+            * Versionamento
+            * Feedback  
+            * Prototipagem
+            * Incremental
+            * Espiral }
+
+** ORIENTADO A REUSO
+    -- Reuso --> Reutilização --> Reutilizar códigos existentes ( desenvolvido pela equipe ou outros códigos desenvolvidos por outras empresas )
+        --> Criação de componentes reutilizáveis
+        --> Vantagens {
+                Diminuição de tempo / custos }
